@@ -77,6 +77,6 @@ public class MainActivity extends AppCompatActivity {
         DownloadApk downloadApk = new DownloadApk(MainActivity.this);
 
         // For starting download call the method startDownloadingApk() by passing the URL and the optional filename
-        downloadApk.startDownloadingApk("https://github.com/vincentcheong321-ux/bestapp/releases/download/vinktv/VINKTV.apk", "Update 2.0");
+        downloadApk.startDownloadingApk("https://github.com/vincentcheong321-ux/bestapp/releases/download/vinware/VINKTV.apk", "Update 2.0");
     }
 }
